@@ -1,0 +1,28 @@
+Gerudo 1:
+  - _Warp::Shrine::KehNamut:
+      comment: Warp
+  - _Npc<Benjamin>:
+      comment: Talk
+      notes: BLSS to Gerudo Town
+  - _Shrine::DaqoChisay:
+      comment: Activate
+  - _Npc<Vilia>:
+      comment: Talk
+      notes: E 
+  - _Material<Fire Arrow,30>:
+      notes: W
+      icon: bow
+  - _Material<Ice Arrow,10>:
+      icon: bow
+  - _Material<Shock Arrow,30>:
+      icon: bow  
+  - _Npc::Gerudo<Riju>:
+      comment: Talk
+  - _Equipment::Shield<Radiant Shield>:
+      notes: N. Boko BTB. Moblin BTB
+  - _Equipment::Weapon<Dragonbone Moblin Club>:
+      notes: N
+  - _Material<Wood,6>
+  - _Shrine::KuhTakkar:
+      notes: Thaw with 7 fire arrows
+      comment: Activate

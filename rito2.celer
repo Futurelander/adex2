@@ -1,0 +1,11 @@
+Rito 2:
+  - _Warp::Shrine::KuhTakkar:
+      comment: Warp
+  - _Shrine::ShiraGomar:
+      comment: SCW out of Kuh Takkar
+      notes: iSCW with jelly
+  - Hebra Peak:
+      notes: N. N. N. Moblin BTB. Gale. NE
+      icon: location
+  - _Shrine::KiahToza:
+      comment: Ride through rings

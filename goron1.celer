@@ -1,0 +1,29 @@
+Goron 1:
+  - Goron City:
+      icon: location
+      notes: BLSS E
+  - _Npc::Goron<Bludo>:
+      comment: Talk
+  - _Npc::Goron<Yunobo>:
+      notes: N. N. Clip in if rocks load   
+  - _Npc::Goron<Bludo>:
+      notes: S
+      comment: Talk
+  - _Npc::Goron<Yunobo>:
+      notes: S. E. E
+      comment: Ancient arrow moblins. Talk
+  - Bridge of Eldin:
+      icon: location
+      comment: Blow Yunobo into bridge
+      notes: NE
+  - Escort:
+      icon: shrine-sword
+      notes: Ancient arrow all enemies
+  - Enter Rudania:
+      icon: rudania-enter    
+  - Fireblight:
+      icon: shrine-double-sword
+      comment: Eat Attack Up
+      notes: P1 2 headshots. P2 Bomb shield, 3 shots
+  - "Daruk's Protection":
+      icon: rudania-done

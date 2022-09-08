@@ -1,0 +1,59 @@
+Rito 1:
+  - Observation Room:
+      icon: location
+      notes: BLSS to Hyrule Castle
+  - _Equipment::Weapon<Thunderblade>:
+      notes: Drop bow and throw spear
+  - _Material<Ancient Arrow,3>:
+      icon: bow
+  - _Equipment::Bow<Royal Bow>
+  - _Material<Luminous Stone,2>
+  - Great Fairy Fountain:
+      icon: location
+      notes: W x2 and BLSS W
+  - _Material<Fairy,3>
+  - _Material<Mighty Thistle,8>
+  - _Material<Silent Princess,2>
+  - _Material<Endura Carrot,2>
+  - _Equipment::Weapon<Soldier's Broadsword>:
+      notes: N
+  - _Equipment::Weapon<Royal Claymore>
+  - Rito Village:
+      icon: location
+      notes: BLSS
+  - _Npc::Rito<Kaneli>
+  - _Npc::Rito<Saki>:
+      icon: medoh-memory
+  - _Equipment::Shield<Pot Lid>:
+      notes: Drop old Pot Lid
+  - _Cook<Mighty Fried Wild Greens>:
+      comment: Cook 5 Mighty Thistles
+  - _Cook<Endr. Fried Wild Greens>:
+      comment: Cook 1 Endura Carrot
+  - _Cook<Endr. Fried Wild Greens>:
+      comment: Cook 1 Endura Carrot
+  - IST:
+      icon: bow
+      notes: Sell 770 Fairies
+  - _Shrine::NoeRajee:
+      notes: N. Shield of Mind's Eye in shrine
+      comment: SCW out of Sha Warvo
+  - _Npc::Rito<Teba>:  
+      comment: Cutscene
+  - _Equipment::Bow<Swallow Bow>:
+      comment: Talk to Teba. Shoot 5 targets.
+  - _Chest<Falcon Bow>:
+      notes: Talk to Teba
+  - Enter Medoh:
+      notes: Shoot guardians with 4 ancient arrows
+      icon: medoh-enter
+  - _Material<Ice Arrow,10>:
+      icon: bow
+  - Windblight:
+      icon: shrine-double-sword
+      comment: Eat Attack Up
+      notes: P1 3 Headshots. P2 3 Headshots
+  - "Revali's Gale":
+      icon: medoh-done
+      notes: Talk to Kaneli
+  - _Chest::Special<Great Eagle Bow>

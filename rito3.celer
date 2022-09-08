@@ -1,0 +1,11 @@
+Rito 3:
+  - _Warp::VahMedoh:
+      comment: Warp
+  - Eat Attack Up:
+      icon: material
+      notes: Run towards Medoh
+  - Windblight Refight:
+      notes: P1 2 furies, 1 normal, fury, 2 normal, updraft 2 normal. P2 3 bomb, 7 normal, 2 bomb, finish normal
+      icon: tots
+  - Gale+:
+      icon: medoh-plus

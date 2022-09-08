@@ -1,0 +1,48 @@
+Gerudo 2:
+  - _Warp::Shrine::KuhTakkar:
+      comment: Warp
+  - _Shrine::KihiroMoh:
+      comment: SCW out of Kuh Takkar
+      notes: Sit at campfire to warp
+  - Kohga:
+      icon: shrine-double-sword
+      notes: W. P1 1 Arrow, spin. P2 1 Arrow, spin. P3 Double hit
+  - _Chest::Special<Thunderhelm>:
+      icon: npc-gerudo
+  - Yiga Clan Hideout:
+      comment: Clip inside
+      icon: location
+  - _Equipment::Bow<Duplex Bow>
+  - _Material<Banana,1>
+  - _Warp::Shrine::DaqoChisay:
+      comment: Warp
+  - _Npc::Gerudo<Riju>:
+      comment: Talk
+      notes: S  
+  - _Npc::Gerudo<Riju>:
+      comment: Talk
+      notes: W
+  - Enter Naboris:
+      icon: naboris-enter
+      notes: S. E. Shoot legs 4 bomb arrows
+  - Main Unit:
+      icon: location
+      comment: 360 middle before fight
+  - Thunderblight:
+      icon: shrine-double-sword
+      comment: Eat Attack Up
+      notes: P1 Break shield, 2 headshots. P2 Stun with metal pole, 2 headshots
+  - "Urbosa's Fury":
+      icon: naboris-done
+      comment: 360 middle before main unit
+  - _Npc::Gerudo<Kohm>:
+      notes: W
+      comment: Rent sandseal
+  - _Shrine::TakamaShiri:
+      comment: Ride through rings
+  - Moldugking:
+      notes: 3 Furies 1 shock arrow headshot
+      comment: E. BLSS SE
+      icon: molduga
+  - _Shrine::KeiveTala:
+      notes: S

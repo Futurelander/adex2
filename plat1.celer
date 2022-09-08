@@ -1,0 +1,21 @@
+Plateau 1:
+  - Sheikah Slate:
+      icon: sor
+      line-color: red
+  - _Equipment::Shield<Pot Lid>
+  - _Equipment::Weapon<Boko Spear>
+  - _Material<Spicy Pepper,6>
+  - _Material<Hylian Shroom,3>
+  - _Equipment::Bow<Traveler's Bow>
+  - _Material<Arrow,5>:
+      icon: bow
+  - _Shrine::JaBaij
+  - _Tower::GreatPlateau
+  - _Shrine::OmanAu
+  - _Material<Apple, 2>
+  - _Shrine::OwaDaim:
+      var-change:
+        Arrow: -1
+  - _Shrine::KehNamut
+  - Paraglider:
+      icon: king

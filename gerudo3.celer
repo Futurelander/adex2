@@ -1,0 +1,11 @@
+Gerudo 3:
+  - _Warp::VahNaboris:
+      comment: Warp
+  - Eat Attack Up:
+        icon: material
+        notes: Run towards Naboris
+  - Thunderblight Refight:
+      notes: P1 Spin. P2 Stun with metal pole, break shield, spin
+      icon: tots
+  - Fury+:
+      icon: naboris-plus

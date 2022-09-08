@@ -1,0 +1,21 @@
+Goron 2:
+  - _Warp::Shrine::SatoKoda:
+      comment: Warp
+  - _Shrine::SharoLun:
+      comment: SCW out of Sato Koda
+      notes: Sit at campfire to warp
+  - _Shrine::RinuHonika:
+      notes: W. Midair out of blue ring
+  - _Shrine::KamiaOmuna:
+      comment: SCW out of Rinu Honika
+      notes: Pick up gem to warp
+  - _Warp::VahRudania:
+      comment: Warp
+  - Eat Attack Up:
+      icon: material
+      notes: Run towards Rudania
+  - Fireblight Refight:
+      notes: P1 explode both bombs, 2 hits, spin. P2 explode shield, 2 hits, spin
+      icon: tots
+  - Protection+:
+      icon: rudania-plus

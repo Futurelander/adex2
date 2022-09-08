@@ -1,0 +1,47 @@
+Zora 1:
+  - Zora's Domain:
+      icon: location
+      notes: BLSS SE
+  - _Npc::ZoraMale<King Dorephan>:
+      notes: Equip Zora Armor
+      comment: Talk
+  - _Npc::ZoraMale<Sidon/Mizu>:
+      comment: Talk
+  - _Npc::ZoraMale<Sidon>:
+      notes: E. E
+  - Enter Ruta:
+      icon: ruta-enter
+      notes: 4 shock arrows on purple lights
+  - Waterblight:
+      icon: shrine-double-sword
+      notes: P1 4 headshots. P2 5 shots
+      comment: Eat Attack Up
+  - "Mipha's Grace":
+      icon: ruta-done
+  - _Equipment::Weapon<Ceremonial Trident>:
+      notes: N
+  - _Shrine::DagahKeek:
+      comment: Activate
+      notes: W. S. Strike trident on pedestal
+  - _Shrine::SatoKoda:
+      comment: SCW out of Dagah Keek
+      notes: Use amiibo to warp
+  - _Shrine::SatoKoda:
+      notes: N. Kill 3 guardians. S. Kill last one
+      comment: Activate
+      icon: warp
+  - _Shrine::MahEliya:
+      comment: SCW out of Sato Koda
+      notes: Pick up Fleet-Lotus Seed to warp
+  - _Shrine::KeeDafunia:
+      notes: BLSS NE. Go through blue ring
+  - _Warp::VahRuta:
+      comment: Warp
+  - Eat Attack Up:
+      notes: S
+      icon: material
+  - Waterblight Refight:
+      notes: P1 Flurry rush, charge attack/fury. P2 3 headshots, 2 charge attacks/furies
+      icon: tots
+  - Grace+:
+      icon: ruta-plus
