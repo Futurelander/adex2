@@ -6,7 +6,8 @@ Rito 1:
       notes: Drop bow and throw spear
   - _Material<Ancient Arrow,3>:
       icon: bow
-  - _Equipment::Bow<Royal Bow>
+  - _Equipment::Bow<Royal Bow>:
+      notes: .link([Bow Durabilities]https://docs.google.com/spreadsheets/d/1Rwmc6vT00Q2La8OXUpY5vDavwhCjIpxAyM-vHDFZtK0/edit?usp=sharing)
   - _Material<Arrow,5>:
       icon: bow
   - _Material<Luminous Stone,2>
@@ -38,6 +39,8 @@ Rito 1:
       icon: bow
       notes: Sell 8 Rubies 
       comment: .link([IST Sim]https://dupl.itntpiston.app/#simulation) .link([Instructions]https://pastebin.com/qdtSFHhM)
+  - _Shrine::ShaWarvo:
+      comment: Activate
   - _Shrine::NoeRajee:
       notes: N. .link([Strat]https://twitter.com/futurelander/status/1568414525933907970?s=20&t=zLsal2vB4ydJmwieslmPuA])
       comment: .link([SCW out of Sha Warvo]https://twitter.com/futurelander/status/1568414245892796418?s=20&t=zLsal2vB4ydJmwieslmPuA)
@@ -61,4 +64,4 @@ Rito 1:
   - "Revali's Gale":
       icon: medoh-done
       notes: Talk to Kaneli
-  - _Chest::Special<Great Eagle Bow>
+  - _Chest::Special<Great Eagle Bow> 
