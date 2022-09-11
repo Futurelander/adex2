@@ -1,7 +1,7 @@
 Goron 1:
   - Goron City:
       icon: location
-      notes: BLSS E
+      notes: S. BLSS E
   - _Npc::Goron<Bludo>:
       comment: Talk
   - _Npc::Goron<Yunobo>:
@@ -15,7 +15,7 @@ Goron 1:
   - Bridge of Eldin:
       icon: location
       comment: Blow Yunobo into bridge
-      notes: NE
+      notes: N
   - Escort:
       icon: shrine-sword
       notes: Ancient arrow all enemies
@@ -24,6 +24,6 @@ Goron 1:
   - Fireblight:
       icon: shrine-double-sword
       comment: Eat Attack Up
-      notes: P1 2 headshots. P2 Bomb shield, 3 shots
+      notes: .link([Phase 1]https://twitter.com/futurelander/status/1568688382557192193?s=20&t=92z35D0CAa0GfHantipO8Q) .link([Phase 2]https://twitter.com/futurelander/status/1568688632533504000?s=20&t=o_UYlNBSbrK57xKHRVFAiQ)
   - "Daruk's Protection":
       icon: rudania-done

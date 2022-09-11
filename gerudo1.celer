@@ -12,7 +12,7 @@ Gerudo 1:
   - _Material<Fire Arrow,30>:
       notes: W
       icon: bow
-  - _Material<Ice Arrow,10>:
+  - _Material<Ice Arrow,20>:
       icon: bow
   - _Material<Shock Arrow,30>:
       icon: bow  

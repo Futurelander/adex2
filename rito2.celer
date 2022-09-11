@@ -2,10 +2,11 @@ Rito 2:
   - _Warp::Shrine::KuhTakkar:
       comment: Warp
   - _Shrine::ShiraGomar:
-      comment: SCW out of Kuh Takkar
-      notes: iSCW with jelly
+      comment: .link([SCW out of Kuh Takkar]https://youtu.be/0PuOytfKMRg)
+      notes: .link([Strat]https://twitter.com/futurelander/status/1568673056264167424?s=20&t=pUYtue7ApKgRUmNVYPsI0A)
   - Hebra Peak:
-      notes: N. N. N. Moblin BTB. Gale. NE
+      notes: N. N. N. .link([Moblin BTB]https://twitter.com/futurelander/status/1568676052565893120?s=20&t=ixxEFoK7pANnM44BWYY_3g) Gale. NE
       icon: location
   - _Shrine::KiahToza:
       comment: Ride through rings
+      notes: .link([Strat]https://twitter.com/futurelander/status/1568677443401306112?s=20&t=fwMvcWyURh2e7mF2pciHFQ)

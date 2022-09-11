@@ -1,18 +1,22 @@
 Rito 1:
   - Observation Room:
       icon: location
-      notes: BLSS to Hyrule Castle
+      notes: BLSS N to Hyrule Castle
   - _Equipment::Weapon<Thunderblade>:
       notes: Drop bow and throw spear
   - _Material<Ancient Arrow,3>:
       icon: bow
   - _Equipment::Bow<Royal Bow>
+  - _Material<Arrow,5>:
+      icon: bow
   - _Material<Luminous Stone,2>
+  - _Material<Razorshroom,2>:
+      notes: W. BLSS W
   - Great Fairy Fountain:
       icon: location
-      notes: W x2 and BLSS W
+      notes: BLSS W
   - _Material<Fairy,3>
-  - _Material<Mighty Thistle,8>
+  - _Material<Mighty Thistle,6>
   - _Material<Silent Princess,2>
   - _Material<Endura Carrot,2>
   - _Equipment::Weapon<Soldier's Broadsword>:
@@ -20,26 +24,27 @@ Rito 1:
   - _Equipment::Weapon<Royal Claymore>
   - Rito Village:
       icon: location
-      notes: BLSS
+      notes: BLSS N
   - _Npc::Rito<Kaneli>
   - _Npc::Rito<Saki>:
       icon: medoh-memory
-  - _Equipment::Shield<Pot Lid>:
-      notes: Drop old Pot Lid
-  - _Cook<Mighty Fried Wild Greens>:
-      comment: Cook 5 Mighty Thistles
-  - _Cook<Endr. Fried Wild Greens>:
+  - _Cook<Mighty Mushroom Skewer>:
+      notes: 3 Mighty Thistles and 2 Razorshrooms
+  - _Cook<Fried Wild Greens>:
       comment: Cook 1 Endura Carrot
-  - _Cook<Endr. Fried Wild Greens>:
+  - _Cook<Fried Wild Greens>:
       comment: Cook 1 Endura Carrot
   - IST:
       icon: bow
-      notes: Sell 770 Fairies
+      notes: Sell 8 Rubies 
+      comment: .link([IST Sim]https://dupl.itntpiston.app/#simulation) .link([Instructions]https://pastebin.com/qdtSFHhM)
   - _Shrine::NoeRajee:
-      notes: N. Shield of Mind's Eye in shrine
-      comment: SCW out of Sha Warvo
+      notes: N. .link([Strat]https://twitter.com/futurelander/status/1568414525933907970?s=20&t=zLsal2vB4ydJmwieslmPuA])
+      comment: .link([SCW out of Sha Warvo]https://twitter.com/futurelander/status/1568414245892796418?s=20&t=zLsal2vB4ydJmwieslmPuA)
   - _Npc::Rito<Teba>:  
       comment: Cutscene
+  - _Material<Arrow,10>:
+      icon: bow
   - _Equipment::Bow<Swallow Bow>:
       comment: Talk to Teba. Shoot 5 targets.
   - _Chest<Falcon Bow>:
@@ -52,7 +57,7 @@ Rito 1:
   - Windblight:
       icon: shrine-double-sword
       comment: Eat Attack Up
-      notes: P1 3 Headshots. P2 3 Headshots
+      notes: .link([Phase 1]https://twitter.com/futurelander/status/1568427367265370112?s=20&t=zLsal2vB4ydJmwieslmPuA) .link([Phase 2]https://twitter.com/futurelander/status/1568427537289867266?s=20&t=zLsal2vB4ydJmwieslmPuA)
   - "Revali's Gale":
       icon: medoh-done
       notes: Talk to Kaneli

@@ -2,20 +2,21 @@ Goron 2:
   - _Warp::Shrine::SatoKoda:
       comment: Warp
   - _Shrine::SharoLun:
-      comment: SCW out of Sato Koda
-      notes: Sit at campfire to warp
+      comment: .link([SCW out of Sato Koda]https://youtu.be/9iRB69KjrUU)
+      notes: .link([Strat]https://youtu.be/UFhBnOoEZiU)
   - _Shrine::RinuHonika:
-      notes: W. Midair out of blue ring
+      notes: W. .link([Strat]https://twitter.com/futurelander/status/1568715853667139585?s=20&t=hkTLJ-DeaZ7X6RFIlSYMoQ)
+      comment: Midair out of blue ring
   - _Shrine::KamiaOmuna:
-      comment: SCW out of Rinu Honika
-      notes: Pick up gem to warp
+      comment: .link([SCW out of Rinu Honika]https://youtu.be/ap9YnhyeY7A)
+      notes: .link([Strat]https://twitter.com/futurelander/status/1568718580891648000?s=20&t=lRzza0rMaR-v0HLn3-ZObg)
   - _Warp::VahRudania:
       comment: Warp
   - Eat Attack Up:
       icon: material
       notes: Run towards Rudania
   - Fireblight Refight:
-      notes: P1 explode both bombs, 2 hits, spin. P2 explode shield, 2 hits, spin
+      notes: .link([Phase 1]https://twitter.com/futurelander/status/1568719929075200001?s=20&t=illAAMmmA8PmuFiLMDIBrw) .link([Phase 2]https://twitter.com/futurelander/status/1568720170373517312?s=20&t=4WRmisVV7wTXw4r_1P3cRA)
       icon: tots
   - Protection+:
       icon: rudania-plus

@@ -1,19 +1,21 @@
 Plateau 2:
   - _Shrine::EtsuKorima:
-      comment: SCW out of Kuh Takkar
-      notes: Kill Chuchu and iSCW with jelly
+      comment: .link([SCW out of Kuh Takkar]https://youtu.be/R1aOX8KyDoo)
+      notes: Run through shrine
   - _Shrine::OwaDaim:
       notes: E
       comment: Don't enter
   - _Shrine::RuvoKorbah:
-      comment: SCW out of Owa Daim
+      comment: .link([SCW out of Owa Daim]https://youtu.be/2zxrIY-m3O8)
+      notes: .link([Strat]https://youtu.be/KKoruJn14yk)
   - _Shrine::JaBaij:
       notes: E
       comment: Don't enter
   - _Shrine::RohtaChigah:
-      comment: SCW out of Ja Baij
+      comment: .link([SCW out of Ja Baij]https://youtu.be/o-y5VTxwkXI)
+      notes: .link([Strat]https://youtu.be/z3yOsrirysU)
   - _Warp::Shrine::KuhTakkar:
       comment: Warp
   - _Shrine::YowakaIta:
-      comment: SCW out of Kuh Takkar 
-      notes: iSCW with jelly
+      comment: .link([SCW out of Kuh Takkar]https://youtu.be/mejf3zOk6SE) 
+      notes: .link([Strat]https://twitter.com/futurelander/status/1568631721578594305?s=20&t=AyBvJ-Lw_Z0BlhWHUl072w)

@@ -2,11 +2,11 @@ Gerudo 2:
   - _Warp::Shrine::KuhTakkar:
       comment: Warp
   - _Shrine::KihiroMoh:
-      comment: SCW out of Kuh Takkar
-      notes: Sit at campfire to warp
+      comment: .link([SCW out of Kuh Takkar]https://youtu.be/lgWnarEDrGE)
+      notes: .link([Strat]https://twitter.com/futurelander/status/1568635127089209344?s=20&t=AyBvJ-Lw_Z0BlhWHUl072w)
   - Kohga:
       icon: shrine-double-sword
-      notes: W. P1 1 Arrow, spin. P2 1 Arrow, spin. P3 Double hit
+      notes: W. .link([Phase 1]https://twitter.com/futurelander/status/1568636869491200000?s=20&t=AyBvJ-Lw_Z0BlhWHUl000000000000000000000000000000000072w) .link([Phase 2]https://twitter.com/futurelander/status/1568638276919250944?s=20&t=AyBvJ-Lw_Z0BlhWHUl072w) .link([Phase 3]https://twitter.com/futurelander/status/1568641982540689409?s=20&t=XjwWyJfWmAujea5zq5_S0Q)
   - _Chest::Special<Thunderhelm>:
       icon: npc-gerudo
   - Yiga Clan Hideout:
@@ -31,7 +31,7 @@ Gerudo 2:
   - Thunderblight:
       icon: shrine-double-sword
       comment: Eat Attack Up
-      notes: P1 Break shield, 2 headshots. P2 Stun with metal pole, 2 headshots
+      notes: .link([Phase 1]https://twitter.com/futurelander/status/1568648460488028160?s=20&t=YDjMEOQXqiGrPmKpjl6uLQ) .link([Phase 2]https://twitter.com/futurelander/status/1568648755246944256?s=20&t=YDjMEOQXqiGrPmKpjl6uLQ)
   - "Urbosa's Fury":
       icon: naboris-done
       comment: 360 middle before main unit
@@ -40,9 +40,10 @@ Gerudo 2:
       comment: Rent sandseal
   - _Shrine::TakamaShiri:
       comment: Ride through rings
+      notes: .link([Strat]https://twitter.com/futurelander/status/1568651102379470849?s=20&t=pUYtue7ApKgRUmNVYPsI0A)
   - Moldugking:
-      notes: 3 Furies 1 shock arrow headshot
+      notes: .link([Strat]https://twitter.com/futurelander/status/1568655311778754560?s=20&t=8JtZyTZztnHYLPZzOC48Iw)
       comment: E. BLSS SE
       icon: molduga
   - _Shrine::KeiveTala:
-      notes: S
+      notes: S .link([Strat]https://twitter.com/futurelander/status/1568665042756976640?s=20&t=YQ4iP5oB0PblYjvwWXk3TQ)

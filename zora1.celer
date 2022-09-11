@@ -14,7 +14,7 @@ Zora 1:
       notes: 4 shock arrows on purple lights
   - Waterblight:
       icon: shrine-double-sword
-      notes: P1 4 headshots. P2 5 shots
+      notes: .link([Phase 1]https://twitter.com/futurelander/status/1568694901197651968?s=20&t=72PMxcMn4AcKJmvX62t20Q) .link([Phase 2]https://twitter.com/futurelander/status/1568695172166483974?s=20&t=mxUmmiQIPq8w659dxjs7Og)
       comment: Eat Attack Up
   - "Mipha's Grace":
       icon: ruta-done
@@ -24,24 +24,25 @@ Zora 1:
       comment: Activate
       notes: W. S. Strike trident on pedestal
   - _Shrine::SatoKoda:
-      comment: SCW out of Dagah Keek
-      notes: Use amiibo to warp
+      comment: .link([SCW out of Dagah Keek]https://youtu.be/oyr4rUV-0Zw)
+      notes: .link([Strat]https://twitter.com/futurelander/status/1568697634319405056?s=20&t=fvVwLzfk54VuRgKeqzddEw)
   - _Shrine::SatoKoda:
       notes: N. Kill 3 guardians. S. Kill last one
       comment: Activate
       icon: warp
   - _Shrine::MahEliya:
-      comment: SCW out of Sato Koda
-      notes: Pick up Fleet-Lotus Seed to warp
+      comment: .link([SCW out of Sato Koda]https://youtu.be/uNNNE90LpdI)
+      notes: .link([Strat]https://twitter.com/futurelander/status/1568700072690593795?s=20&t=yYBdz7eYDdznP8Ogs9gyYw)
   - _Shrine::KeeDafunia:
-      notes: BLSS NE. Go through blue ring
+      notes: BLSS NE .link([Strat]https://twitter.com/futurelander/status/1568702162615824389?s=20&t=JU7-aVR22r6SdjdAowcQNg)
+      comment: Go through blue ring
   - _Warp::VahRuta:
       comment: Warp
   - Eat Attack Up:
       notes: S
       icon: material
   - Waterblight Refight:
-      notes: P1 Flurry rush, charge attack/fury. P2 3 headshots, 2 charge attacks/furies
+      notes: .link([Phase 1]https://twitter.com/futurelander/status/1568707695087321089?s=20&t=hkTLJ-DeaZ7X6RFIlSYMoQ) .link([Phase 2]https://twitter.com/futurelander/status/1568707965355704320?s=20&t=hkTLJ-DeaZ7X6RFIlSYMoQ)
       icon: tots
   - Grace+:
       icon: ruta-plus
