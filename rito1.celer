@@ -10,7 +10,6 @@ Rito 1:
       notes: .link([Bow Durabilities]https://docs.google.com/spreadsheets/d/1Rwmc6vT00Q2La8OXUpY5vDavwhCjIpxAyM-vHDFZtK0/edit?usp=sharing)
   - _Material<Arrow,5>:
       icon: bow
-  - _Material<Luminous Stone,2>
   - _Material<Razorshroom,2>:
       notes: W. BLSS W
   - Great Fairy Fountain:

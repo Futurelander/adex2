@@ -1,7 +1,7 @@
 Goron 1:
   - Goron City:
       icon: location
-      notes: S. BLSS E
+      notes: BLSS NE. E
   - _Npc::Goron<Bludo>:
       comment: Talk
   - _Npc::Goron<Yunobo>:

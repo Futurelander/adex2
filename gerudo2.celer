@@ -47,3 +47,13 @@ Gerudo 2:
       icon: molduga
   - _Shrine::KeiveTala:
       notes: S .link([Strat]https://twitter.com/futurelander/status/1568665042756976640?s=20&t=YQ4iP5oB0PblYjvwWXk3TQ)
+  - _Warp::VahNaboris:
+      comment: Warp
+  - Eat Attack Up:
+        icon: material
+        notes: Run towards Naboris
+  - Thunderblight Refight:
+      notes: .link([Phase 1]https://twitter.com/futurelander/status/1568739344214802432?s=20&t=aIxTeB4WB90MK2mZhoiI5g) .link([Phase 2]https://twitter.com/futurelander/status/1568739524909596676?s=20&t=aIxTeB4WB90MK2mZhoiI5g)
+      icon: tots
+  - Fury+:
+      icon: naboris-plus

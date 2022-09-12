@@ -10,3 +10,13 @@ Rito 2:
   - _Shrine::KiahToza:
       comment: Ride through rings
       notes: .link([Strat]https://twitter.com/futurelander/status/1568677443401306112?s=20&t=fwMvcWyURh2e7mF2pciHFQ)
+  - _Warp::VahMedoh:
+      comment: Warp
+  - Eat Attack Up:
+      icon: material
+      notes: Run towards Medoh
+  - Windblight Refight:
+      notes: Spam normal and bomb arrows
+      icon: tots
+  - Gale+:
+      icon: medoh-plus
