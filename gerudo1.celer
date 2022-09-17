@@ -18,10 +18,8 @@ Gerudo 1:
       icon: bow  
   - _Npc::Gerudo<Riju>:
       comment: Talk
-  - _Equipment::Shield<Radiant Shield>:
-      notes: N. Boko BTB. Moblin BTB
   - _Equipment::Weapon<Dragonbone Moblin Club>:
-      notes: N
+      notes: N. Boko BTB. Moblin BTB
   - _Material<Wood,6>
   - _Shrine::KuhTakkar:
       notes: Thaw with 7 fire arrows

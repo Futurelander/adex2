@@ -13,6 +13,7 @@ Plateau 1:
   - _Tower::GreatPlateau
   - _Material<Ruby,1>
   - _Shrine::OmanAu
+  - _Material<Apple,2>
   - _Shrine::OwaDaim:
       var-change:
         Arrow: -1

@@ -15,7 +15,7 @@ Rito 1:
   - Great Fairy Fountain:
       icon: location
       notes: BLSS W
-  - _Material<Fairy,3>
+  - _Material<Fairy,1>
   - _Material<Mighty Thistle,6>
   - _Material<Silent Princess,2>
   - _Material<Endura Carrot,2>
@@ -28,16 +28,16 @@ Rito 1:
   - _Npc::Rito<Kaneli>
   - _Npc::Rito<Saki>:
       icon: medoh-memory
+  - _Cook<Fried Wild Greens>:
+      comment: Cook 1 Endura Carrot
+  - _Cook<Fried Wild Greens>:
+      comment: Cook 1 Endura Carrot
   - _Cook<Mighty Mushroom Skewer>:
       notes: 3 Mighty Thistles and 2 Razorshrooms
-  - _Cook<Fried Wild Greens>:
-      comment: Cook 1 Endura Carrot
-  - _Cook<Fried Wild Greens>:
-      comment: Cook 1 Endura Carrot
   - IST:
       icon: bow
       notes: Sell 8 Rubies 
-      comment: .link([IST Sim]https://dupl.itntpiston.app/#simulation) .link([Instructions]https://pastebin.com/qdtSFHhM)
+      comment: .link([IST Sim]https://dupl.itntpiston.app/#simulation) .link([Instructions]https://pastebin.com/tmetadbc)
   - _Shrine::ShaWarvo:
       comment: Activate
   - _Shrine::NoeRajee:
